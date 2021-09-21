@@ -3,6 +3,7 @@ public class Main{
 		System.out.println("Lauren");
 		System.out.println("Campbell");
 		System.out.println("lcampbell@sjs.org");
-		System.out.println("This is PDS!!")
+		System.out.println("This is PDS!!");
+		System.out.println("Fall 2021");
 	}
 }
